@@ -11,5 +11,5 @@ mysql:8.0.32
 redis:6.0
 mongo:5.0.4
 emqx/emqx-enterprise:5.0.4
-emqx/emqx:4.4.16
+emqx/emqx:5.6.1
 
