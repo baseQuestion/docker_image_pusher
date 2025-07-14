@@ -14,4 +14,5 @@ emqx/emqx-enterprise:5.0.4
 emqx/emqx:5.6.1
 gitlab/glab:v1.61.0
 gitlab/glab:v1.60.2
+gitlab/gitlab-ce
 
