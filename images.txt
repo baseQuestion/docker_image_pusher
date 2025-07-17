@@ -16,4 +16,5 @@ gitlab/glab:v1.61.0
 gitlab/glab:v1.60.2
 gitlab/gitlab-ce
 gitlab/gitlab-ce:17.3.1-ce.0
+gitlab/gitlab-ce:18.1.2-ce.0
 
