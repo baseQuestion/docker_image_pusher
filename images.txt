@@ -18,4 +18,4 @@ gitlab/gitlab-ce
 gitlab/gitlab-ce:17.3.1-ce.0
 gitlab/gitlab-ce:18.1.2-ce.0
 gitlab/gitlab-ce:18.0.4-ce.0
-
+nginx:1.26
