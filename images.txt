@@ -21,3 +21,5 @@ gitlab/gitlab-ce:18.0.4-ce.0
 nginx:1.26
 rabbitmq:3.12-management
 elasticsearch:7.17.3
+ghcr.io/paperless-ngx/paperless-ngx:latest
+postgres:13
