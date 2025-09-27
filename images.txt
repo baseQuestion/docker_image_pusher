@@ -24,3 +24,4 @@ elasticsearch:7.17.3
 ghcr.io/paperless-ngx/paperless-ngx:latest
 postgres:13
 docker.io/apache/tika:1.28.4
+cloudreve/cloudreve:latest
